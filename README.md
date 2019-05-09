@@ -1,2 +1,3 @@
-# Project1
-This Repo Contains EDX CS50 Project 1: Books
+# Project 1
+
+Web Programming with Python and JavaScript
